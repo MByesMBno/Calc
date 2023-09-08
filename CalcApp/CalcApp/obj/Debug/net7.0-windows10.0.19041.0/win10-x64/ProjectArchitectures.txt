@@ -1,0 +1,1 @@
+C:\Users\Павел\OneDrive\Рабочий стол\prac\CalcApp\CalcApp\CalcApp.csproj;x64
